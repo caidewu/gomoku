@@ -16,6 +16,7 @@
 分数最高的坐标点，即最优的落子点
 
 评分表
+
  五元组   |    得分 
  ------- | --------
  none      |    7     
@@ -30,12 +31,13 @@
  WB?       |    0     
 
 ## 代码结构
-
-├── index.html
-├── js
-    ├── ai.js
-    ├── draw.js
+```
+├── index.html<br>
+├── js<br>
+    ├── ai.js<br>
+    ├── draw.js<br>
 	└── judge.js
+```
 
 ## License
 [MIT](LICENSE)	
