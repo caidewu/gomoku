@@ -36,3 +36,6 @@
     ├── ai.js
     ├── draw.js
 	└── judge.js
+
+## License
+[MIT](LICENSE)	
